@@ -25,7 +25,7 @@ SECRET_KEY = 'lrcb43=83&7(barsj+m60u+sdq+4a-*&1##*0_!ly-szpim+g1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'https://xero.pythonanywhere.com/']
 
 
 # Application definition
